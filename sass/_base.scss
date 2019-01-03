@@ -20,8 +20,8 @@ sans-serif;
 *,
 *::before,
 *::after {
-    margin: 0;
-    height: 0;
+    // margin: 0;
+    // height: 0;
     box-sizing: inherit;
 }
 
@@ -35,4 +35,9 @@ body {
     color: $color-grey-dark-2;
     font-weight: 300;
     line-height: 1.6;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 80vh;
 }
