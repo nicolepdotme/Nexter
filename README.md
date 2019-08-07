@@ -8,3 +8,5 @@
 * Mobile responsive design with media queries
 
 ## See live demo: [Nexter project](https://nicolepdev.github.io/Nexter/)
+
+![Screenshot of realtor website](https://res.cloudinary.com/dqe0hw0ru/image/upload/v1565188582/nexter_1.jpg)
